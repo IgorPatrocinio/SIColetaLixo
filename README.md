@@ -1,3 +1,3 @@
 # SIColetaLixo
 
-Projeto de atualização de sistema de coleta de lixo. 
+Projeto de sistema de coleta de lixo. 
