@@ -1,2 +1,3 @@
 # SIColetaLixo
-AtividadeAvaliativa 
+
+Projeto de atualização de sistema de coleta de lixo. 
